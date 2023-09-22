@@ -1,6 +1,6 @@
 cask "threat-dragon" do
-  version "2.0.2"
-  sha256 "7494666e8e071d90765a203112e315d7ed577e75df4fbb4acc9aea10774278cf"
+  version "2.0.6"
+  sha256 "35006e5dfe22c2f07a853a99008805b56316a949030f6ec2c047fe1c43144a44"
 
   url "https://github.com/OWASP/threat-dragon/releases/download/v#{version}/Threat-Dragon-ng-#{version}.dmg",
       verified: "github.com/OWASP/threat-dragon"
